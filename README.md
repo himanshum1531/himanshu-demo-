@@ -1,3 +1,4 @@
 # himanshu-demo-
-that's my learning Git Repository
-Author - Himanshu mihsra
+that's my learning Git Repository.
+<br>
+Author - Himanshu mishra
